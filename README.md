@@ -1,2 +1,2 @@
-# NodeJS Template for MongoDb
+# NodeJS Template for MongoDB
 Just a simple template to connect to MongoDB
